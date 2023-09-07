@@ -91,5 +91,7 @@ HOasso <- function(
     warning(paste0("Error of approximation to zero of the covariance or a variance, ", sum(sel), "results forced to NaN"))
   }
 
+  class(res) <- c("assortativity", "numeric")
+
   return(res)
 }

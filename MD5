@@ -1,6 +1,8 @@
-53cef403a3435cf508be10b7bf061a4f *DESCRIPTION
-740a27e00bcbc56143f5897b0f897cf2 *NAMESPACE
-cb5dde28544d0c2c5b72b3589eb9fb28 *R/HOasso.R
-d24568214203b863f387622b7c2db5f7 *build/partial.rdb
+7d5e7c35a9744b8dc2167418fa443f59 *DESCRIPTION
+fc420ee82fc67c21481a1d5e84d9346b *NAMESPACE
+dfaafb7176f3ba787f1e11c28ac807e4 *R/HOasso.R
+2db4ede97bb98e8a886821db996b0e8c *R/plot.assortativity.R
+379de7059a1e55b33f3fc2e51ac8f070 *R/print.assortativity.R
+0940d37adb75b7d4e453e90fb64f3258 *build/partial.rdb
 88faf3510a569a1df58dd341d105b5c1 *inst/REFERENCES.bib
-9a60794edffbdbc41b2de921d45c8479 *man/HOasso.Rd
+b30d056cca79f67167e87c9ae402914f *man/HOasso.Rd

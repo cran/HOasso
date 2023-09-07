@@ -1,3 +1,6 @@
 exportPattern("^[[:alpha:]]+")
 import("igraph")
 import("Rdpack")
+importFrom("graphics", "plot.default")
+S3method(plot, assortativity)
+S3method(print, assortativity)

@@ -1,8 +1,8 @@
 Package: HOasso
 Type: Package
 Title: Higher Order Assortativity for Complex Networks
-Version: 1.0.0
-Date: 2023-07-21
+Version: 1.0.1
+Date: 2023-09-07
 Authors@R: c(person("Alberto", "Arcagni", role = c("aut", "cre"), email = "alberto.arcagni@uniroma1.it"), person("Roy", "Cerqueti", role = c("aut")), person("Rosanna", "Grassi", role = c("aut")))
 Author: Alberto Arcagni [aut, cre],
   Roy Cerqueti [aut],
@@ -13,7 +13,7 @@ RdMacros: Rdpack
 License: GPL (>= 2)
 Encoding: UTF-8
 NeedsCompilation: no
-Packaged: 2023-08-10 10:04:48 UTC; Alberto
+Packaged: 2023-09-07 08:23:50 UTC; alber
 Maintainer: Alberto Arcagni <alberto.arcagni@uniroma1.it>
 Repository: CRAN
-Date/Publication: 2023-08-11 08:10:02 UTC
+Date/Publication: 2023-09-07 08:40:10 UTC
